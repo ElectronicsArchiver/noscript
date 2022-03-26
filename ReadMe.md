@@ -4,7 +4,7 @@ Copyright (C) 2005-2021 Giorgio Maone <https://maone.net>
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
-# NoScript [![Badge License]][License]
+# NoScript [![Badge Tor]][Tor] [![Badge License]][License] 
 *A* ***Security Suite*** *for your* ***Web Browser*** *.*
 
 ---
@@ -39,7 +39,7 @@ You might also be interested in the <br>
 
 ---
 
-Winner of the "PC World World Class Award" and bundled with the Tor Browser, NoScript gives you with the best available protection on the web.
+Winner of the "PC World World Class Award".
 
 It allows JavaScript, Flash, Java and other executable content to run only from trusted domains of your choice, e.g. your home-banking site, mitigating remotely exploitable vulnerabilities including Spectre and Meltdown.
 
@@ -54,6 +54,7 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 [License]: ./LICENSE
 
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
+[Badge Tor]: https://img.shields.io/badge/Bundled%20In%20Tor-7D4698?logo=torbrowser&logoColor=white
 
 [Download]: https://noscript.net/getit
 [FAQ]: https://noscript.net/faq
@@ -62,3 +63,4 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 [Basic Guide]: https://forums.informaction.com/viewtopic.php?f=7&amp;t=23974
 [User Contributed Primer]: https://blog.jeaye.com/2017/11/30/noscript/
 [Comparison]: https://hackademix.net/2017/12/04/noscript-quantum-vs-legacy-in-a-nutshell-2/
+[Tor]: https://support.torproject.org/glossary/noscript/
