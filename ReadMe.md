@@ -4,7 +4,7 @@ Copyright (C) 2005-2021 Giorgio Maone <https://maone.net>
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
-# NoScript Security Suite
+# NoScript Security Suite [![Badge License]][License]
 
 The best security you can get in a web browser!
 Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits.
@@ -28,3 +28,10 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 
 FAQ: <a href="https://noscript.net/faq">https://noscript.net/faq</a>
 Forum: <a href="https://noscript.net/forum">https://noscript.net/forum</a>
+
+
+<!----------------------------------------------------------------------------->
+
+[License]: ./LICENSE
+
+[Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
