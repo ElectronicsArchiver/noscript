@@ -8,11 +8,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 The best security you can get in a web browser!
 Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits.
-Fx52? <a href="https://noscript.net/getit">https://noscript.net/getit</a>
+Fx52?
 
 ---
 
- **⸢ [FAQ] ⸥ ⸢ [Forum] ⸥**
+ **⸢ [Download] ⸥ ⸢ [FAQ] ⸥ ⸢ [Forum] ⸥**
 
 ---
 
@@ -46,8 +46,10 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 
 [Badge License]: https://img.shields.io/badge/License-GPLv3-blue.svg
 
+[Download]: https://noscript.net/getit
 [FAQ]: https://noscript.net/faq
 [Forum]: https://noscript.net/forum
+
 [Basic Guide]: https://forums.informaction.com/viewtopic.php?f=7&amp;t=23974
 [User Contributed Primer]: https://blog.jeaye.com/2017/11/30/noscript/
 [Comparison]: https://hackademix.net/2017/12/04/noscript-quantum-vs-legacy-in-a-nutshell-2/
