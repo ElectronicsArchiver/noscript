@@ -13,6 +13,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 
 ---
 
+<br>
+
 ## NoScript 10
 
 **Check out our [Basic Guide] .**
@@ -25,7 +27,11 @@ You might also be interested in the <br>
 
 *`Quantum` ⬌ `Classic / Legacy`*
 
+<br>
+
 ---
+
+<br>
 
 ## What It Does
 
@@ -57,9 +63,15 @@ attacks against your `Trusted Boundaries`:
 
 - **Clickjacking**
 
+<br>
+
 ---
 
+<br>
+
 **Winner of the [`PC World - World Class Award 2016`][PCWorld]**
+
+<br>
 
 <!----------------------------------------------------------------------------->
 
