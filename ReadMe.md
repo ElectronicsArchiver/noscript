@@ -4,9 +4,9 @@ Copyright (C) 2005-2021 Giorgio Maone <https://maone.net>
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
 
-# NoScript Security Suite [![Badge License]][License]
+# NoScript [![Badge License]][License]
+*A* ***Security Suite*** *for your* ***Web Browser*** *.*
 
-The best security you can get in a web browser!
 Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits.
 Fx52?
 
