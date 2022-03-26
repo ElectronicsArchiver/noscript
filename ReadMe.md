@@ -16,12 +16,19 @@ Fx52? <a href="https://noscript.net/getit">https://noscript.net/getit</a>
 
 ---
 
-<b>IMPORTANT</b>
-<a href="https://forums.informaction.com/viewtopic.php?f=7&amp;t=23974">A Basic <b>NoScript 10 Guide</b></a>
+## NoScript 10
 
-Still confused by NoScript 10's new UI?
-Check this <a href="https://blog.jeaye.com/2017/11/30/noscript/">user-contributed NoScript 10 primer</a>.
-and this <a href="https://hackademix.net/2017/12/04/noscript-quantum-vs-legacy-in-a-nutshell-2/">NoScript 10 "Quantum" vs NoScript 5 "Classic" (or "Legacy") comparison</a>.
+**Check out our [Basic Guide] .**
+
+*If you are still unsure about the new UI, you might <br>
+wanna check out the* ***[User Contributed Primer]*** *.*
+
+You might also be interested in the <br>
+***[Comparison of Version 10 ⬌ 5][Comparison]***
+
+*`Quantum` ⬌ `Classic / Legacy`*
+
+---
 
 Winner of the "PC World World Class Award" and bundled with the Tor Browser, NoScript gives you with the best available protection on the web.
 
@@ -41,3 +48,6 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 
 [FAQ]: https://noscript.net/faq
 [Forum]: https://noscript.net/forum
+[Basic Guide]: https://forums.informaction.com/viewtopic.php?f=7&amp;t=23974
+[User Contributed Primer]: https://blog.jeaye.com/2017/11/30/noscript/
+[Comparison]: https://hackademix.net/2017/12/04/noscript-quantum-vs-legacy-in-a-nutshell-2/
