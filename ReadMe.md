@@ -39,7 +39,8 @@ You might also be interested in the <br>
 
 ---
 
-Winner of the "PC World World Class Award".
+**Winner of the [`PC World - World Class Award 2016`][PCWorld]**
+
 
 It allows JavaScript, Flash, Java and other executable content to run only from trusted domains of your choice, e.g. your home-banking site, mitigating remotely exploitable vulnerabilities including Spectre and Meltdown.
 
@@ -64,3 +65,4 @@ Experts do agree: Firefox is really safer with NoScript ;-)
 [User Contributed Primer]: https://blog.jeaye.com/2017/11/30/noscript/
 [Comparison]: https://hackademix.net/2017/12/04/noscript-quantum-vs-legacy-in-a-nutshell-2/
 [Tor]: https://support.torproject.org/glossary/noscript/
+[PCWorld]: https://www.pcworld.pl/ftp/noscript.html
