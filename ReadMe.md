@@ -7,12 +7,21 @@ SPDX-License-Identifier: GPL-3.0-or-later
 # NoScript [![Badge License]][License]
 *A* ***Security Suite*** *for your* ***Web Browser*** *.*
 
-Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits.
-Fx52?
-
 ---
 
  **⸢ [Download] ⸥ ⸢ [FAQ] ⸥ ⸢ [Forum] ⸥**
+
+---
+
+## What It Does
+
+- Allow active content to run only from sites you trust.
+- protect yourself against:
+    - XSS 
+    - Clickjacking attacks
+    - `Spectre`
+    - `Meltdown`
+    - Other JavaScript exploits.
 
 ---
 
